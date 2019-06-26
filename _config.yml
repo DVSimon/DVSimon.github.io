@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/dennis-simon.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Masters in Software Engineering Student at SJSU."
   location         : "San Jose, CA"
-  email            :
+  email            : "dennisvsimon@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
