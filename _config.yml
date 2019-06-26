@@ -112,9 +112,9 @@ author:
   location         : "San Jose, CA"
   email            : "dennisvsimon@outlook.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "dennisvsimon@outlook.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "dennisvsimon@outlook.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dennisvsimon/"
@@ -125,9 +125,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "dennisvsimon@outlook.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+      # url: "dennisvsimon@outlook.com"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dennisvsimon/"
