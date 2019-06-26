@@ -116,11 +116,14 @@ author:
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "dennisvsimon@outlook.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dennisvsimon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DVSimon"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "https://dennissimon.me/resume/"
 
 # Site Footer
 footer:
@@ -129,7 +132,7 @@ footer:
     #   icon: "fas fa-fw fa-envelope-square"
       # url: "dennisvsimon@outlook.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dennisvsimon/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
