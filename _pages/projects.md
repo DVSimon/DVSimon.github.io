@@ -4,7 +4,7 @@ title: "Projects"
 excerpt: "A list of my projects with links to each with descriptions."
 layouts_gallery:
 
-last_modified_at: 2019-04-03T15:15:09-04:00
+last_modified_at: 2019-06-26T12:15:09-04:00
 toc: true
 ---
 
