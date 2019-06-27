@@ -1,5 +1,5 @@
 ---
-title: "Firecode: Decimal to binary"
+title: "Firecode 5: Decimal to binary"
 categories:
   - Firecode
 tags:
