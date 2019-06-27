@@ -16,7 +16,7 @@ This is just a test post to see if it works.
 - minus
 + plus!
 
-###RESUME TEST
+### RESUME TEST
 
 [Resume test link](https://dennissimon.me/resume/)
 
