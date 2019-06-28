@@ -50,13 +50,29 @@ def convert_date_to_day(dt):
    result = re.findall(r'\d{4}-(\d{2})-(\d{2})T00:00:00.000',dt)
 
    return result[0][1]
-
+```
+```python
 def convert_date_to_month(dt):
 
-  result = re.findall(r'\d{4}-(\d{2})-(\d{2})T00:00:00.000',dt)
+   result = re.findall(r'\d{4}-(\d{2})-(\d{2})T00:00:00.000',dt)
 
-  return result[0][0]
+   return result[0][0]
 ```
+```python
+def convert_date_to_year(dt):
+
+    result = re.findall(r'(\d{4})-(\d{2})-(\d{2})T00:00:00.000',dt)
+
+    return result[0][0]
+```
+```python
+def convert_time_to_hour(tm):
+
+   result = re.findall(r'(\d{2}):\d{2}',tm)
+
+   return result[0]
+```
+
 
 + Move category into seperate DF as it is to be predicted and not input.
 ```python
