@@ -11,7 +11,7 @@ tags:
 
 Write a function that takes in a string and returns the reversed version of the string.
 
-# Examples:
+Examples:
 
 reverse_string("abcde") -> "edcba"
 
