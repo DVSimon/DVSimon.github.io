@@ -45,7 +45,11 @@ df_district = df_district.drop(columns=['pddistrict', 'incidntnum', 'pdid', 'loc
 ```
 + Convert date into day, month, year, hour columns
 ```python
-test
+def convert_date_to_day(dt):
+
+   result = re.findall(r'\d{4}-(\d{2})-(\d{2})T00:00:00.000',dt)
+
+   return result[0][1]
 ```
 
 + Move category into seperate DF as it is to be predicted and not input.
