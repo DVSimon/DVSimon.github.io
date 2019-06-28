@@ -19,7 +19,7 @@ All work is done for educational use and is not monetized, dataset taken from pu
 
 ## Technologies
 
-Python, Angular, flask, HTML, CSS, XGBoost, Pandas, sklearn, Google Maps API
+Python, Angular, flask, HTML, CSS, XGBoost, Pandas, sklearn, Google Maps API, MongoDB
 
 
 ### Overview
@@ -28,6 +28,10 @@ Python, Angular, flask, HTML, CSS, XGBoost, Pandas, sklearn, Google Maps API
 + The application predicts rides for the entire selected date and displays a graph of wait times throughout the user inputted day.
 + Ride to be predicted can be selected on the map (Google Maps API) or on a list of rides that can be filtered by park, recently viewed, favorited or name.
 + Uses XGBoost modelling for predictions.
++ Mobile friendly.
++ User creation enabled.
++ [Github](https://github.com/DVSimon/Disney-World-Wait-Times/blob/master/server/server.py)
+
 
 ### Dataset
 
