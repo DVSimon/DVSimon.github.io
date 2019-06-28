@@ -88,7 +88,7 @@ df_x = df_district.drop(columns=['category'])
 onehot_encoder_DoW = OneHotEncoder(sparse = False)
 DoW_feature = onehot_encoder_DoW.fit_transform(DoW_feature)
 ```
-+Label Encoding
++ Label Encoding
 ```python
 labelencoder = LabelEncoder()
 labelencoder = labelencoder.fit(df_y)
