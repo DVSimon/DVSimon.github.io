@@ -44,23 +44,7 @@ df_district = pd.read_csv('/home/ubuntu/CSVs/CENTRAL_data.csv') #change this cit
 df_district = df_district.drop(columns=['pddistrict', 'incidntnum', 'pdid', 'location', 'descript'])
 ```
 + Convert date into day, month, year, hour columns
-```python
-def convert_date_to_day(dt):
-   result = re.findall(r'\d{4}-(\d{2})-(\d{2})T00:00:00.000',dt)
-   return result[0][1]
 
-def convert_date_to_month(dt):
-   result = re.findall(r'\d{4}-(\d{2})-(\d{2})T00:00:00.000',dt)
-   return result[0][0]
-
-def convert_date_to_year(dt):    
-    result = re.findall(r'(\d{4})-(\d{2})-(\d{2})T00:00:00.000',dt)
-    return result[0][0]
-
-def convert_time_to_hour(tm):
-   result = re.findall(r'(\d{2}):\d{2}',tm)
-   return result[0]
-```
 
 + Move category into seperate DF as it is to be predicted and not input.
 ```python
