@@ -61,6 +61,7 @@ def convert_time_to_hour(tm):
    result = re.findall(r'(\d{2}):\d{2}',tm)
    return result[0]
 ```
+
 + Move category into seperate DF as it is to be predicted and not input.
 ```python
 df_initial = df_initial[df_initial['SPOSTMIN'] != -999]
