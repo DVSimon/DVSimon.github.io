@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "Portfolio"
     description: "Main projects and explanations."
-    url: /projects/
+    url: /portfolio/
   # - title: "Code-Blog"
   #   description: "Small code pieces, e.g. firecode, leetcode."
   #   url: /Codeblog/
