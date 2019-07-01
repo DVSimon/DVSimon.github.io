@@ -9,8 +9,9 @@ toc: true
 ---
 
 ## Basic Info
-* I am doing my masters in Software Engineering with a data science specialization.
+* I am doing my Masters in Software Engineering with a data science specialization.
 * I only have my thesis remaining this upcoming Fall.
+* I'm looking for an entry level job as a data scientist, data analyst or software engineer.
 * Bachelors in Computer Engineering at San Jose State University.
 
 
