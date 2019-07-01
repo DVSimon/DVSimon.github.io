@@ -6,9 +6,6 @@ tags:
   - firecode
   - python
 ---
-
-## Prompt
-
 Write a function to compute the binary representation of a positive decimal integer. The method should return a string.
 
 Example:

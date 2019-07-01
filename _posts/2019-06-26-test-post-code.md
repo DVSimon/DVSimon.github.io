@@ -9,7 +9,6 @@ tags:
   - lists
   - markup
 ---
-
 This is just a test post to see if it works.
 
 * it has no real bearing with asterik
@@ -26,4 +25,3 @@ This is just a test post to see if it works.
 s = "Python syntax highlighting"
 print s
 ```
-

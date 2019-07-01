@@ -6,9 +6,6 @@ tags:
   - firecode
   - python
 ---
-
-## Prompt
-
 Write a function that takes in a string and returns the reversed version of the string.
 
 Examples:

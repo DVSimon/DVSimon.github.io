@@ -6,9 +6,6 @@ tags:
   - firecode
   - python
 ---
-
-## Prompt
-
 Write a function - duplicate_items to find the redundant or repeated items in a list and return them in sorted order.
 This method should return a list of redundant integers in ascending sorted order (as illustrated below).
 

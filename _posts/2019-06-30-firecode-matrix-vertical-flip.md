@@ -1,14 +1,11 @@
 ---
-title: "Firecode 8: Repeated Elements in Array"
+title: "Firecode 8: Flip matrix vertically"
 categories:
   - Firecode
 tags:
   - firecode
   - python
 ---
-
-## Prompt
-
 You are given an m x n 2D image matrix (List of Lists) where each integer represents a pixel. Flip it in-place along its vertical axis.
 
 Example:
