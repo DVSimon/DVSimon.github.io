@@ -6,9 +6,6 @@ tags:
   - firecode
   - python
 ---
-
-## Prompt
-
 Given a sorted list of integer ranges (see Range in Use Me), merge all overlapping ranges.
 
 Note: Check out the Use Me section to get the structure of the Range class.
