@@ -1,5 +1,5 @@
 ---
-title: "Firecode 17: Unique Chars in a String"
+title: "Firecode 16: Unique Chars in a String"
 categories:
   - Firecode
 tags:
@@ -30,4 +30,4 @@ def unique_chars_in_string(input_string):
 ## Explanation
 
 * Add unique chars to a list, if a char from input string is ever found in list return false, else add the char to the list.
-* If entire string added to list without finding a dupe, return true. 
+* If entire string added to list without finding a dupe, return true.
