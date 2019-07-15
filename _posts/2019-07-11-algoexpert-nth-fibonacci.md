@@ -6,22 +6,6 @@ tags:
   - algoexpert
   - python
 ---
----
-title: "Firecode 28: Max Gain"
-categories:
-  - Firecode
-tags:
-  - firecode
-  - python
----
-Given an list of integers, write a method - max_gain - that returns the maximum gain. Maximum Gain is defined as the maximum difference between 2 elements in a list such that the larger element appears after the smaller element. If no gain is possible, return 0.
-Example:
-
-```
-max_gain([100,40,20,10]) ==> 0
-max_gain([0,50,10,100,30]) ==> 100
-```
-
 ## My Code
 
 ```python
@@ -61,5 +45,5 @@ def getNthFib(n):
 ## Explanation
 
 * First solution uses basic recursion but isn't time efficient.
-* Second solution stores past fib calculations in a dictionary(cache) and uses it to return fibonacci or calcuate new fibonaccis for a constant time operation.
-* Third solution O(N) time and O(1) space so it's most efficient throught iteration.  Uses a counter to count iterations while storing the past 2 fibonacci(n-2,n-1) in a list which constantly updates itself with the next fibonacci term until reaching the input value/count.
+* Second solution O(n) time and O(n) space. stores past fib calculations in a dictionary(cache) and uses it to return fibonacci or calcuate new fibonaccis for a constant time operation.
+* Third solution O(n) time and O(1) space so it's most efficient throught iteration.  Uses a counter to count iterations while storing the past 2 fibonacci(n-2,n-1) in a list which constantly updates itself with the next fibonacci term until reaching the input value/count.
