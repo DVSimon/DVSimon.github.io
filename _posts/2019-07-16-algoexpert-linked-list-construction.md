@@ -1,5 +1,5 @@
 ---
-title: "Algoexpert: Caesar Cipher Encryptor"
+title: "Algoexpert: Linked List Construction"
 categories:
   - Algoexpert
 tags:
@@ -146,4 +146,4 @@ class DoublyLinkedList:
 * loop through list till finding the node, if its found then return true, otherwise return False
 
 ### removeNodesWithValue
-* loop through node list checking nodes at each value, if value == node.value then perform remove operation.  keep a seperate temp node to store the next node so that when removing a node the link to next node is still present. 
+* loop through node list checking nodes at each value, if value == node.value then perform remove operation.  keep a seperate temp node to store the next node so that when removing a node the link to next node is still present.
