@@ -1,5 +1,5 @@
 ---
-title: "Algoexpert: Breadth-first Search"
+title: "Algoexpert: Validate BST"
 categories:
   - Algoexpert
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "Algoexpert: Nth fibonacci"
+title: "Algoexpert: Two Number Sum"
 categories:
   - Algoexpert
 tags:
